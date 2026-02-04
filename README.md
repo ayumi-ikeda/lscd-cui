@@ -10,4 +10,4 @@ Usage: lscd [ OPTION ]
 
   -h, --help       使い方を表示して終了する
   -v, --version    バージョン情報を表示して終了する
-``
+```
